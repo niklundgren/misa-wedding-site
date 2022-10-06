@@ -11,8 +11,8 @@ function Boho(prop){
         <section className="wrapper wrapper-fix fade-in">
             <div className="boho-title">
                 <h1>Minimalist Boho Style Shoot</h1>
-                <h3>The Guild Inn Estate</h3>
-                <h3>June 18th, 2019</h3>
+                <h3>Filipino Fest</h3>
+                <h3>Date 1</h3>
             </div>
             <div className="boho-description">
                 <div>

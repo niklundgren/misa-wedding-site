@@ -8,8 +8,9 @@ function Services(prop){
             <section className="service-section">
                 <div className="service-details-container">
                     <div>
-                        <h1>full wedding planning</h1>
-                        <p>For this package, the goal is to alleviate as much stress and time from you leading up to the big day! I would be by your side for each process and keep track of everything for you to ensure the planning process is seamless and worry-free. This package includes, but is not limited to</p>
+                        <h1>Full Wedding Planning</h1>
+                        <p>For this package, I am fully responsible for executing out your dream. After a thorough survey to capture your vision, I will send requests for final approval on things
+			 like inivitation design, and decoration selection, while offering panels of vendors to choose from to fill the gaps in my talents like photographers and caterers.</p>
                     </div>
                     <div>
                         <ul>
@@ -44,7 +45,7 @@ function Services(prop){
                                 <p>Custom Design Vision Board</p>
                             </li>
                             <li>
-                                <p>Budgeting Spreadsheet (To Be Updated Often)</p>
+                                <p>Budgeting Spreadsheet (To Be Updated Bi-weekly)</p>
                             </li>
                             <li>
                                 <p>Event Rehearsal & On-site Coordination (Including Provision of Wedding Emergency Kit)</p>
@@ -53,7 +54,7 @@ function Services(prop){
                                 <p>Custom Wedding Day Itinerary, Floor Plans, Checklists and other Documents </p>
                             </li>
                             <li>
-                                <p>An assistant for the day of the event at no extra cost</p>
+                                <p>Access to my team of well-dressed and professional Assistants for day-of execution</p>
                             </li>
                         </ul>
                     </div>
@@ -73,8 +74,8 @@ function Services(prop){
                 </div>
                 <div className="service-details-left">
                     <div>
-                        <h1 className="align-text-right">partial wedding planning</h1>
-                        <p>For this package, I act as your friend, supporting you through the process and assisting where it is needed. I take the stress off the sooner the big day comes</p>
+                        <h1 className="align-text-right">Partial Planning</h1>
+                        <p>For this package, I act as your support system, guiding you to which decisions are top priority and assisting where it is needed, making reccomendations but letting you take control.</p>
                     </div>
                     <div>
                         <ul>
@@ -91,16 +92,13 @@ function Services(prop){
                                 <p>Vendor & Venue Recommendations</p>
                             </li>
                             <li>
-                                <p>Main Point of Contact for All Vendors</p>
-                            </li>
-                            <li>
                                 <p>Unlimited Communication (Either through text, phone, email, or in person)</p>
                             </li>
                             <li>
                                 <p>Custom Design Vision Board</p>
                             </li>
                             <li>
-                                <p>Budgeting Spreadsheet (To Be Updated Often), if desired</p>
+                                <p>Budgeting Spreadsheet (To Be Updated Bi-weekly), if desired</p>
                             </li>
                             <li>
                                 <p>Event Rehearsal & On-site Coordination (Including Provision of Wedding Emergency Kit)</p>
@@ -130,16 +128,13 @@ function Services(prop){
                                 <p>Handling follow-ups with all vendors </p>
                             </li>
                             <li>
-                                <p>Vendor & Venue Recommendations</p>
+                                <p>Vendor & Venue Recommendations if required</p>
                             </li>
                             <li>
-                                <p>Main Point of Contact for All Vendors</p>
+                                <p>Main Point of Contact for All Vendors Day-of</p>
                             </li>
                             <li>
                                 <p>Unlimited Communication (Either through text, phone, email, or in person)</p>
-                            </li>
-                            <li>
-                                <p>Planning Timeline</p>
                             </li>
                             <li>
                                 <p>Event Rehearsal & On-site Coordination (Including Provision of Wedding Emergency Kit)</p>
@@ -147,6 +142,9 @@ function Services(prop){
                             <li>
                                 <p>Custom Wedding Day Itinerary, Floor Plans, Checklists and other Documents</p>
                             </li>
+			    <li>
+				<p>Professional and Well-dressed assistants (if needed) are at an additional charge</p>
+			    </li>
                         </ul>
                     </div>
                 </div>

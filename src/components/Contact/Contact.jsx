@@ -8,10 +8,10 @@ function Contact(prop){
         <section className="wrapper wrapper-fix contact-wrapper-fix fade-in">
             <div className="left-side">
                 <div className="hours-container">
-                    <p>instagram: <a href='https://www.instagram.com/mlcruzin/'>@mlcruzin</a></p>
-                    <p>twitter: <a href='https://twitter.com/mlcruzin'>@mlcruzin</a></p>
-                    <p>facebook: <a href='https://www.facebook.com/cruzin4life'>@cruzin4life</a></p>
-                    <p>email: <a href='mailto:lorenacruz@lovelorena.com'>lorenacruz@lovelorena.com</a></p>
+                    <p>instagram: <a href='https://www.instagram.com/madetoloveevents/'>@madetoloveevents</a></p>
+                    <p>email: <a href='mailto:amanda@madetoloveevents.com'>amanda@madetoloveevents.com</a></p>
+		    <p>cell: </p>
+		    <p>I can't wait to meet you! I'll typically respond within a single business day to set up a meeting. </p> 
 
                     <h3>Hours</h3>
                     <p>Monday: 9-6</p>
